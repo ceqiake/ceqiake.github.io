@@ -5,7 +5,7 @@
 ## Education
 ### Oregon State University &nbsp;&nbsp;Corvallis, USA 
 
-_PhD in Chemical Engineering      &nbsp; &nbsp; &nbsp;    &nbsp;        Sep. 2023 - Present
+_PhD in Chemical Engineering      &nbsp; &nbsp; &nbsp;    &nbsp;        Sep. 2023 - Present_
 
 - Cumulative GPA: 3.93 / 4.0
 
@@ -25,14 +25,14 @@ _BS in Chemical Engineering   &nbsp; &nbsp; &nbsp; &nbsp;        Sep. 2016 - Jun
 ## Research Experience
 ### Chemical Engineering Science Lab - SCUT  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    Corvallis, USA
 
-_Graduate Student Researcher  &nbsp;&nbsp; &nbsp;&nbsp;     Sep. 2023 - Present
+_Graduate Student Researcher  &nbsp;&nbsp; &nbsp;&nbsp;     Sep. 2023 - Present_
 
 Advisor: Prof. Cory Simon
 - Applying optimization algorithms (such as reinforcement learning, Bayesian optimization) and mathematical modeling methods (linear programming) to accelerate the solution of chemical engineering problems (MOFs screening , chemical reactions)
 
 ### Chemical Engineering Science Lab - SCUT  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    Guangzhou, China
 
-_Undergraduate/Graduate Student Researcher  &nbsp;&nbsp; &nbsp;&nbsp;     Sep. 2019 - June. 2023
+_Undergraduate/Graduate Student Researcher  &nbsp;&nbsp; &nbsp;&nbsp;     Sep. 2019 - June. 2023_
 
 Advisor: Prof. Libo Li
 - Investigating the effects of the structure of ZIF-8 polymorphs on the separation of light hydrocarbons by GCMC and MD simulations 
