@@ -3,30 +3,40 @@
 <strong> email:</strong> keqi AT oregonstate.edu
   
 ## Education
+### Oregon State University &nbsp;&nbsp;Corvallis, USA 
+
+_PhD in Chemical Engineering      &nbsp; &nbsp; &nbsp;    &nbsp;        Sep. 2023 - Present
+
+- Cumulative GPA: 3.93 / 4.0
 
 ### South China University of Technology (SCUT) &nbsp;&nbsp;Guangzhou, China 
 
-_M.S. in Chemical Engineering      &nbsp; &nbsp; &nbsp;    &nbsp;        Sep. 2020 - June. 2023_
+_MS in Chemical Engineering      &nbsp; &nbsp; &nbsp;    &nbsp;        Sep. 2020 - June. 2023_
 
 - Cumulative GPA: 3.76 / 4.0
 
 ### South China University of Technology (SCUT) &nbsp; &nbsp; &nbsp;  Guangzhou, China
 
-_B.S. in Chemical Engineering   &nbsp; &nbsp; &nbsp; &nbsp;        Sep. 2016 - June. 2020_
+_BS in Chemical Engineering   &nbsp; &nbsp; &nbsp; &nbsp;        Sep. 2016 - June. 2020_
 
 - Cumulative GPA: 3.72 / 4.0
 - Rank: 7 / 100
   
 ## Research Experience
+### Chemical Engineering Science Lab - SCUT  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    Corvallis, USA
+
+_Graduate Student Researcher  &nbsp;&nbsp; &nbsp;&nbsp;     Sep. 2023 - Present
+
+Advisor: Prof. Cory Simon
+- Applying optimization algorithms (such as reinforcement learning, Bayesian optimization) and mathematical modeling methods (linear programming) to accelerate the solution of chemical engineering problems (MOFs screening , chemical reactions)
+
 ### Chemical Engineering Science Lab - SCUT  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;    Guangzhou, China
 
-_Undergraduate/Graduate Student Researcher  &nbsp;&nbsp; &nbsp;&nbsp;     Sep. 2019 - Present_
+_Undergraduate/Graduate Student Researcher  &nbsp;&nbsp; &nbsp;&nbsp;     Sep. 2019 - June. 2023
 
 Advisor: Prof. Libo Li
 - Investigating the effects of the structure of ZIF-8 polymorphs on the separation of light hydrocarbons by GCMC and MD simulations 
-- Exploring the effect of thermostats, barostats and ZIF-8's force fields on simulation results 
-- Investigating the mechanism of water diffusion in graphene two-dimensional nanochannels 
-- Developing the force field between water and graphene, and exploring the effect of force field parameters on the simulation results of various water-graphene systems
+- Exploring the effect of thermostats, barostats and force fields on simulation results of ZIF-8 and liquids
 
 ### Technical Lignin Utilization Research Room - SCUT&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;  Guangzhou, China
 
