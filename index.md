@@ -1,6 +1,6 @@
 # Qia Ke
 
-<strong> email:</strong> ceqiaqia@mail.scut.edu.cn
+<strong> email:</strong> keqi AT oregonstate.edu
   
 ## Education
 
@@ -12,7 +12,7 @@ _M.S. in Chemical Engineering      &nbsp; &nbsp; &nbsp;    &nbsp;        Sep. 20
 
 ### South China University of Technology (SCUT) &nbsp; &nbsp; &nbsp;  Guangzhou, China
 
-_M.S. in Chemical Engineering   &nbsp; &nbsp; &nbsp; &nbsp;        Sep. 2016 - June. 2020_
+_B.S. in Chemical Engineering   &nbsp; &nbsp; &nbsp; &nbsp;        Sep. 2016 - June. 2020_
 
 - Cumulative GPA: 3.72 / 4.0
 - Rank: 7 / 100
@@ -37,15 +37,18 @@ Advisor:  Dr. Cheng Cai and Prof. Hongming Lou
 - Analyzing the effect of lignin content and temperature on the adsorption of cellulase components 
 
 ## Publications
-[1] Qia Ke, Xiaoting Gong, Shouwei Liao, Chongxiong Duan, and Libo Li. Effects of thermostats/barostats on physical properties of molecular dynamics simulations. Journal of Molecular, Liquids, 2022. revised.
+[1] Shouwei Liao, Qia Ke, Yanying Wei, and Libo Li. Water's motions in xy and z directions of 2D nanochannels: Entirely different but tightly coupled. Nano Research, 16(5): 6298-6307, 2023.
 
-[2] Shouwei Liao, Qia Ke, Yanying Wei, and Libo Li. Water-graphene non-bonded interaction parameters: Development and influence on molecular dynamics simulations. Applied Surface Science, 2022. revised.
+[2] Qia Ke, Xiaoting Gong, Shouwei Liao, Chongxiong Duan, and Libo Li. Effects of thermostats/barostats on physical properties of molecular dynamics simulations. Journal of Molecular Liquids, 365: 120116, 2022. 
 
-[3] Qia Ke, Yifan Duan, Yiran Ji, Daohui Zhao, Haoqing Zhang, Chongxiong Duan, Libo Li, and Yanying Wei. Identical composition and distinct performance: How ZIF-8 polymorphs’ structures affect the adsorption/separation of ethane and ethene. Journal of Chemical & Engineering Data, 66(9):3483–3492, 2021.
+[3] Shouwei Liao, Qia Ke, Yanying Wei, and Libo Li. Water-graphene non-bonded interaction parameters: Development and influence on molecular dynamics simulations. Applied Surface Science, 603: 154477, 2022. 
 
-[4] Cheng Cai, Yu Jin, Yuxia Pang, Qia Ke, Wenhui Qiu, Xueqing Qiu, Yanlin Qin, and Hongming Lou. Tracing cellulase components in hydrolyzate during the enzymatic hydrolysis of corncob residue and its analysis. Bioresource Technology Reports, 4:137–144, 2018.
+[4] Qia Ke, Yifan Duan, Yiran Ji, Daohui Zhao, Haoqing Zhang, Chongxiong Duan, Libo Li, and Yanying Wei. Identical composition and distinct performance: How ZIF-8 polymorphs’ structures affect the adsorption/separation of ethane and ethene. Journal of Chemical & Engineering Data, 66(9):3483–3492, 2021.
 
-[5] Shouwei Liao, Qia Ke, Yanying Wei, and Libo Li. Water’s motions in x, y, z directions of graphene nanochannels: Entirely different but tightly coupled. in preparation
+[5] Libo Li, Yifan Duan, Shouwei Liao, Qia Ke, Zhiwei Qiao, and Yanying Wei. Adsorption and separation of propane/propylene on various ZIF-8 polymorphs: Insights from GCMC simulations and the ideal adsorbed solution theory (IAST). Chemical Engineering Journal, 386: 123945, 2020.
+
+[5] Cheng Cai, Yu Jin, Yuxia Pang, Qia Ke, Wenhui Qiu, Xueqing Qiu, Yanlin Qin, and Hongming Lou. Tracing cellulase components in hydrolyzate during the enzymatic hydrolysis of corncob residue and its analysis. Bioresource Technology Reports, 4:137–144, 2018.
+
 
 ## Invited Talks
 ### Molecular Simulations of Light Hydrocarbons Separation on ZIFs  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;Huizhou, China
@@ -53,8 +56,7 @@ _National Engineering Graduate Education Forum at Huizhou University  &nbsp; &nb
 
 ## Skills
 - <strong>Programming Languages:</strong>Python, Julia 
-- <strong>Software:</strong>  Linux, Gromacs, Raspa, Materials Studio, Origin, Microsoft Office 
-- <strong>Hardware:</strong> 3D Printing, Laser Cutting 
+- <strong>Software:</strong>  Linux, Gromacs, RASPA, Materials Studio, Origin, Microsoft Office 
 
 
 
