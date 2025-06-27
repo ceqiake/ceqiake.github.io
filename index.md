@@ -5,7 +5,7 @@
 ## Education
 ### Oregon State University &nbsp;&nbsp;Corvallis, USA 
 
-_PhD in Chemical Engineering      &nbsp; &nbsp; &nbsp;    &nbsp;        Sep. 2023 - Present_
+_PhD in Chemical Engineering      &nbsp; &nbsp; &nbsp;    &nbsp;       Sep. 2023 - Present_
 
 - Cumulative GPA: 3.93 / 4.0
 
