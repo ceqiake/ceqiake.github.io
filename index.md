@@ -30,7 +30,7 @@ _Graduate Student Researcher  &nbsp;&nbsp; &nbsp;&nbsp;     Sep. 2023 - Present_
 Advisor: Prof. Cory Simon
 - Applying optimization algorithms (such as reinforcement learning, Bayesian optimization) and mathematical modeling methods (linear programming) to accelerate the solution of chemical engineering problems (MOFs screening , chemical reactions)
 
-### Chemical Engineering Science Lab - SCUT  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Guangzhou, China
+### Chemical Engineering Science Lab - SCUT  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Guangzhou, China
 
 _Undergraduate/Graduate Student Researcher  &nbsp;&nbsp; &nbsp;&nbsp;     Sep. 2019 - June. 2023_
 
