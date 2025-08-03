@@ -17,7 +17,7 @@ _MS in Chemical Engineering      &nbsp; &nbsp; &nbsp;    &nbsp;        Sep. 2020
 
 ### South China University of Technology &nbsp; &nbsp; &nbsp;  Guangzhou, China
 
-_BS in Chemical Engineering   &nbsp; &nbsp; &nbsp; &nbsp;        Sep. 2016 - June. 2020_
+_BE in Chemical Engineering   &nbsp; &nbsp; &nbsp; &nbsp;        Sep. 2016 - June. 2020_
 
 - Cumulative GPA: 3.72 / 4.0
 - Rank: 7 / 100
@@ -64,7 +64,7 @@ Advisor:  Dr. Cheng Cai and Prof. Hongming Lou
 
 ## Conference
 ### 2024 AIChE Annual Meeting &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; San Diego, USA
-Efficiently Screening Metal-Organic Frameworks Via Molecular Simulation with Multi-Armed Bandit Algorithms  &nbsp; Oct. 2024
+Efficiently Screening Metal-Organic Frameworks Via Molecular Simulation with Multi-Armed Bandit Algorithms  &nbsp; Oct. 2024_
 ### Molecular Simulations of Light Hydrocarbons Separation on ZIFs  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;Huizhou, China
 _National Engineering Graduate Education Forum at Huizhou University  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;  Jul. 2022_
 
