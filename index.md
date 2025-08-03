@@ -63,8 +63,8 @@ Advisor:  Dr. Cheng Cai and Prof. Hongming Lou
 
 
 ## Conference
-### 2024 AIChE Annual Meeting San Diego, USA
-Efficiently Screening Metal-Organic Frameworks Via Molecular Simulation with Multi-Armed Bandit Algorithms Oct. 2024
+### 2024 AIChE Annual Meeting &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; San Diego, USA
+Efficiently Screening Metal-Organic Frameworks Via Molecular Simulation with Multi-Armed Bandit Algorithms  &nbsp; Oct. 2024
 ### Molecular Simulations of Light Hydrocarbons Separation on ZIFs  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp;Huizhou, China
 _National Engineering Graduate Education Forum at Huizhou University  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;  Jul. 2022_
 
