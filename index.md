@@ -23,14 +23,14 @@ _BS in Chemical Engineering   &nbsp; &nbsp; &nbsp; &nbsp;        Sep. 2016 - Jun
 - Rank: 7 / 100
   
 ## Research Experience
-### Simon's group - OSU  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; Corvallis, USA
+### The Simon Research Ensemble - OSU  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; Corvallis, USA
 
 _Graduate Student Researcher  &nbsp;&nbsp; &nbsp;&nbsp;     Sep. 2023 - Present_
 
 Advisor: Prof. Cory Simon
 - Applying optimization algorithms (such as reinforcement learning, Bayesian optimization) and mathematical modeling methods (linear programming) to accelerate the solution of chemical engineering problems (MOFs screening , chemical reactions)
 
-### Chemical Engineering Science Lab - SCUT  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Guangzhou, China
+### Chemical Engineering Science Lab - SCUT  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; Guangzhou, China
 
 _Undergraduate/Graduate Student Researcher  &nbsp;&nbsp; &nbsp;&nbsp;     Sep. 2019 - June. 2023_
 
@@ -38,7 +38,7 @@ Advisor: Prof. Libo Li
 - Investigating the effects of the structure of ZIF-8 polymorphs on the separation of light hydrocarbons by GCMC and MD simulations 
 - Exploring the effect of thermostats, barostats and force fields on simulation results of ZIF-8 and liquids
 
-### Technical Lignin Utilization Research Room - SCUT&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;   Guangzhou, China
+### Technical Lignin Utilization Research Room - SCUT&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Guangzhou, China
 
 _Undergraduate Student Researcher   &nbsp; &nbsp;&nbsp;           Sep. 2017 - May. 2018_
 
